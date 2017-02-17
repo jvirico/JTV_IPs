@@ -1,0 +1,7 @@
+C:\Users\javier.rico\Desktop\GIT_REPO\PRUEBAS\JTV\JTV\obj\Release\JTV.csprojResolveAssemblyReference.cache
+C:\Users\javier.rico\Desktop\GIT_REPO\PRUEBAS\JTV\JTV\bin\Release\JTV_IPs.exe.config
+C:\Users\javier.rico\Desktop\GIT_REPO\PRUEBAS\JTV\JTV\bin\Release\JTV_IPs.config
+C:\Users\javier.rico\Desktop\GIT_REPO\PRUEBAS\JTV\JTV\bin\Release\JTV_IPs.exe
+C:\Users\javier.rico\Desktop\GIT_REPO\PRUEBAS\JTV\JTV\bin\Release\JTV_IPs.pdb
+C:\Users\javier.rico\Desktop\GIT_REPO\PRUEBAS\JTV\JTV\obj\Release\JTV_IPs.exe
+C:\Users\javier.rico\Desktop\GIT_REPO\PRUEBAS\JTV\JTV\obj\Release\JTV_IPs.pdb

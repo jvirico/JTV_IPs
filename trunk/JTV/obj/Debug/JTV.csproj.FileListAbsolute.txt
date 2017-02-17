@@ -1,0 +1,7 @@
+C:\Users\javier.rico\Desktop\GIT_REPO\PRUEBAS\JTV\JTV\bin\Debug\JTV.exe.config
+C:\Users\javier.rico\Desktop\GIT_REPO\PRUEBAS\JTV\JTV\obj\Debug\JTV.csprojResolveAssemblyReference.cache
+C:\Users\javier.rico\Desktop\GIT_REPO\PRUEBAS\JTV\JTV\bin\Debug\JTV.exe
+C:\Users\javier.rico\Desktop\GIT_REPO\PRUEBAS\JTV\JTV\bin\Debug\JTV.pdb
+C:\Users\javier.rico\Desktop\GIT_REPO\PRUEBAS\JTV\JTV\obj\Debug\JTV.exe
+C:\Users\javier.rico\Desktop\GIT_REPO\PRUEBAS\JTV\JTV\obj\Debug\JTV.pdb
+C:\Users\javier.rico\Desktop\GIT_REPO\PRUEBAS\JTV\JTV\bin\Debug\JTV.config
