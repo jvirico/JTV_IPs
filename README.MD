@@ -1,5 +1,11 @@
 # JTV_IPs
 Utility that monitors a list of IP addresses and warns with a Beep in case some IP stops responding in the established time window.
+   
+# Platform and Requirements
+   
+   - Developed with Visual Studio Professional 2013
+   - .NET Framework 4.5
+
 
 # CONFIG
    
